@@ -16,6 +16,7 @@
     "name": "Toasts",
     "version": "1.2",
     "description": "Adds support for custom toasts",
-    "author": "Goldorion, OVONSAME, jcm23."
+    "author": "Goldorion",
+    "credits":"OVONSAME, jcm23"
   }
 }
