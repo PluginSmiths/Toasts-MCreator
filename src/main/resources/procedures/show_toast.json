@@ -18,7 +18,7 @@
   "previousStatement": null,
   "nextStatement": null,
   "mcreator": {
-    "toolbox_id": "guimanagement",
+    "toolbox_id": "toasts",
     "toolbox_init": [
       "~<field name=\"toast\">CUSTOM:ExampleToast</field>"
     ],

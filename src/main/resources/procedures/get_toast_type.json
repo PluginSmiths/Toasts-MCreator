@@ -15,7 +15,7 @@
   "output": "Boolean",
   "colour": "#607c99",
   "mcreator": {
-    "toolbox_id": "guimanagement",
+    "toolbox_id": "toasts",
     "toolbox_init": [
       "<value name=\"toast\"><block type=\"variables_get_toast\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" is_player_var=\"false\" has_entity=\"false\"></mutation><field name=\"VAR\"></field></block></value>"
     ],
