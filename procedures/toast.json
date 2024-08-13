@@ -1,0 +1,20 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "toast",
+      "datalist": "toasts"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Toast",
+  "colour": "#699960",
+  "mcreator": {
+    "toolbox_id": "toasts",
+    "toolbox_init": [
+    ],
+    "fields": [
+      "toast"
+    ]
+  }
+}
