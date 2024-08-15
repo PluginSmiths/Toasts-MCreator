@@ -4,6 +4,7 @@
       "type": "field_data_list_selector",
       "name": "toast",
       "datalist": "toasts"
+      "customEntryProviders": "toast"
     }
   ],
   "inputsInline": true,
