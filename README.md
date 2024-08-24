@@ -3,7 +3,7 @@
 
 This plugin adds new mod element and procedure blocks to make custom toasts!
 
-Also this plugin was remade from the Toasts Goldorion plugin.
+Also this plugin was remade from the [Toasts Goldorion plugin](https://github.com/Goldorion/Toasts-MCreator).
 
 If you like this plugin or want to support me you can vote for it!
 
