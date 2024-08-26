@@ -25,14 +25,14 @@ If you would like to be part of this project as a member of the team you may mes
 - [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) API
 - Toast Add Event
 # Image Examples:
-![toast image](https://github.com/PluginSmiths/Assets/blob/fd35e711e954cd9c90f515bb6b76d9bc63e6b1e3/toasts/toasts1.png)
+![toast image](https://github.com/PluginSmiths/.github/blob/f7011acb8841f8e6f5e5e6af93b35cc6864840f5/assets/toasts/toasts1.png)
 
 ---
 
-![procedure image 1](https://github.com/PluginSmiths/Assets/blob/fd35e711e954cd9c90f515bb6b76d9bc63e6b1e3/toasts/toasts2.png)
+![procedure image 1](https://github.com/PluginSmiths/.github/blob/f7011acb8841f8e6f5e5e6af93b35cc6864840f5/assets/toasts/toasts2.png)
 
 ----
 
-![procedure image 2](https://github.com/PluginSmiths/Assets/blob/fd35e711e954cd9c90f515bb6b76d9bc63e6b1e3/toasts/toasts3.png)
+![procedure image 2](https://github.com/PluginSmiths/.github/blob/f7011acb8841f8e6f5e5e6af93b35cc6864840f5/assets/toasts/toasts3.png)
 
 
