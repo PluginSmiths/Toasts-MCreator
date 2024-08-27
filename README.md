@@ -1,6 +1,6 @@
 # The Second Toast
 [![Plugin Page](https://img.shields.io/badge/Plugin%20Page-green?style=for-the-badge)](https://mcreator.net/plugin/109425/second-toast)
-[![Author Discord](https://img.shields.io/badge/OVONSAME-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/OVONSAME)
+[![Team Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m4mvg87cSK)
 [![License](https://img.shields.io/badge/License-GPL%203.0-blue?style=for-the-badge)](https://github.com/OVNSAME/Creating-addons-support/blob/main/LICENSE)
 [![Latest Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPluginSmiths%2FToasts-MCreator%2Fmaster%2Fplugin.json&query=%24.info.version&style=for-the-badge&label=Latest%20Release&color=green)](https://github.com/PluginSmiths/Toasts-MCreator/releases)
 ## About the plugin
