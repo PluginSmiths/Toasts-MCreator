@@ -13,6 +13,7 @@
   "mcreator": {
     "toolbox_id": "toasts",
     "toolbox_init": [
+      "~<field name=\"toast\">CUSTOM:ExampleToast</field>"
     ],
     "fields": [
       "toast"
